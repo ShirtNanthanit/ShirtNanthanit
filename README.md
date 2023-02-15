@@ -4,10 +4,9 @@ Hi 👋 My name is Nanthanit Vareerak
 I am a student.
 ---------------
 
-I am learning to code, I started with python, and now I am learning JavaScript.
+I am learning to code, I started with Python, and now I am learning JavaScript.
 
 * 🌍  I'm based in Bankok, Thailand
-* 🧠  I'm learning JavaScript and Python
 
 ### Skills
 
